@@ -4,7 +4,7 @@ read -p "Please enter a file extension: " EXT
 
 DATE=$(date '+%Y-%m-%d')
 
-read -p "Please enter a file prefix (Press ENTER for Date) : " PRE
+read -p "Please enter a file prefix (Press ENTER for $DATE) : " PRE
 if [ -z "$PRE" ]
 then
 	for LIST in $(ls *.${EXT})
