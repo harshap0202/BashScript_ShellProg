@@ -1,7 +1,7 @@
 # BashScript_ShellProg
 ---
 
-This repository contains the completed exercises from Bash Scripting and Shell Programming Course
+This repository contains the completed exercises from **Bash Scripting and Shell Programming Course**
 
 - Shell_Scripting
 - Exit_Statuses_and_Return_Codes
